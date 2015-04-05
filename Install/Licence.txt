@@ -1,0 +1,29 @@
+Résistor - Licence
+Copyright (c) 2003 par Werner BEROUX.
+Tous Droits Réservés.
+
+
+* LICENCE D'UTILISATION :
+
+Ce logiciel ainsi que tous les documents qui l'accompagnent sont soumis
+à la loi régissant les droits des auteurs dans votre pays. Ce qui
+signifie que ce logiciel ne peut, en aucun cas, être assimilé à un
+programme du domaine public pour lequel l'auteur abandonne ses droits
+d'auteur. Une utilisation du logiciel non conforme à cette licence
+d'utilisation représente donc une infraction aux droits de l'auteur.
+
+Il est formellement interdit:
+1. De modifier le code ou de le déassembler
+2. De faire des copies d'écran ou de documents
+3. De copier partiellement ou totalement le programme sauf dans sa
+version d'évaluation et une copie aux fins de sécurité
+
+L'utilisation du programme sur une machine fixe et portable,
+appartenant au même utilisateur est autorisée.
+
+Vous êtes uniquement propriétaire du/des disques sur lesquels le titre
+est enregistré, mais l'auteur est seul propriétaires du titre et de
+toutes les données du titre.
+
+Pour toute utilisation à titre professionnel et commercial, veuillez
+contacter l'auteur (voir 'A propos').

@@ -1,0 +1,208 @@
+
+[InstallShield Wizard]
+iDate=1
+iTime=1
+Flag=f6000000
+ISX.EXE Size=630784
+ISX.EXE Date=11:43:52  24/2/1998
+ISX.EXE Ver=2.0.0.143
+SETUP.EXE Size=45312
+SETUP.EXE Date=10:53:32  18/1/1997
+SETUP.EXE Ver=3.0.111.0
+SETUP.INS Size=70160
+SETUP.INS Date=14:16:56  11/2/1998
+SETUP.INS Ver=Not available
+_INST16.EX_ Size=282766
+_INST16.EX_ Date=10:56:04  18/1/1997
+_INST16.EX_ Ver=Not available
+_INST32I.EX_ Size=320411
+_INST32I.EX_ Date=11:04:08  18/1/1997
+_INST32I.EX_ Ver=Not available
+ISDEPEND.INI Size=320411
+ISDEPEND.INI Date=11:04:08  18/1/1997
+ISDEPEND.INI Ver=Not available
+SWDEPEND.INI Size=320411
+SWDEPEND.INI Date=11:04:08  18/1/1997
+SWDEPEND.INI Ver=Not available
+ICOMP.EXE Size=119808
+ICOMP.EXE Date=15:05:10  15/1/1996
+ICOMP.EXE Ver=3.00.062
+SPLIT.EXE Size=90624
+SPLIT.EXE Date=15:09:36  15/1/1996
+SPLIT.EXE Ver=3.00.060
+PACKLIST.EXE Size=87552
+PACKLIST.EXE Date=15:10:30  15/1/1996
+PACKLIST.EXE Ver=3.00.060
+Version=2.02
+DevTool=for Visual Basic 5.0
+Platform=Win32
+DisksBuilt=1
+DisksDir=RÉSISTOR\144MB\
+TabsVisit=11111111100000011101
+LangNum=455
+LangDir=LANG\FRE\
+
+[VisualDesign]
+AppName=Résistor
+AppExe=[Fichiers programme]\Resistor.exe
+AppExeFile=C:\Program Files\DevStudio\VB\MyProjects\Résistor\Resistor.exe
+Version=2.3.0
+Company=WBC
+Title=Résistor
+TitleType=1
+BackgrndBmp=
+BackgrndAlign=4
+Backgrnd=1
+BackgrndColor=10
+Uninstall=1
+Silent=1
+SmsMode=1
+
+[Types]
+Types=1
+Type1Components=1
+Type1Name=Complète
+Type1ComponentList=1 
+
+[Components]
+Components=1
+Component1Groups=2
+Component1Name=Fichiers applicationn
+Component1Description=Fichiers nécessaires pour exécuter l’application
+Component1GroupList=1 2 
+
+[Groups]
+Groups=2
+Group1Size=811008
+Group1Files=1
+Group1Name=Fichiers programme
+Group1Dir=<INSTALLDIR>
+Group1Update=0
+Group1TargetOS=-1
+Group1File1=C:\Program Files\DevStudio\VB\MyProjects\Résistor\Resistor.exe
+Group2Size=4126368
+Group2Files=17
+Group2Auto=2
+Group2ID=38502
+Group2Name=System Files - WinSysDir
+Group2Dir=<WINSYSDIR>
+Group2Update=-1
+Group2TargetOS=-1
+Group2File1=C:\WINDOWS\SYSTEM\MSVBVM50.DLL
+Group2File1Auto=2
+Group2File1Reg=1
+Group2File2=C:\WINDOWS\SYSTEM\STDOLE2.TLB
+Group2File2Auto=2
+Group2File2Reg=1
+Group2File3=C:\WINDOWS\SYSTEM\OLEAUT32.DLL
+Group2File3Auto=2
+Group2File3Reg=1
+Group2File4=C:\WINDOWS\SYSTEM\OLEPRO32.DLL
+Group2File4Auto=2
+Group2File4Reg=1
+Group2File5=C:\PROGRAM FILES\INSTALLSHIELD EXPRESS 2\redist\COMCAT.DLL
+Group2File5Auto=2
+Group2File5Reg=1
+Group2File6=C:\WINDOWS\SYSTEM\ASYCFILT.DLL
+Group2File6Auto=2
+Group2File7=C:\WINDOWS\SYSTEM\VB5FR.DLL
+Group2File7Auto=2
+Group2File8=C:\WINDOWS\SYSTEM\THREED32.OCX
+Group2File8Auto=216
+Group2File8Reg=1
+Group2File9=C:\WINDOWS\SYSTEM\MFC40.DLL
+Group2File9Auto=216
+Group2File9Reg=1
+Group2File10=C:\PROGRAM FILES\INSTALLSHIELD EXPRESS 2\redist\MSVCRT40.DLL
+Group2File10Auto=216
+Group2File11=C:\WINDOWS\SYSTEM\PICCLP32.OCX
+Group2File11Auto=214
+Group2File11Reg=1
+Group2File12=C:\WINDOWS\SYSTEM\PcClpFR.dll
+Group2File12Auto=214
+Group2File13=C:\WINDOWS\SYSTEM\COMDLG32.OCX
+Group2File13Auto=202
+Group2File13Reg=1
+Group2File14=C:\WINDOWS\SYSTEM\CmDlgFR.dll
+Group2File14Auto=202
+Group2File15=C:\WINDOWS\SYSTEM\TABCTL32.OCX
+Group2File15Auto=220
+Group2File15Reg=1
+Group2File16=C:\WINDOWS\SYSTEM\TabCtFR.dll
+Group2File16Auto=220
+Group2File17=C:\WINDOWS\SYSTEM\WBCCrypteDLL.dll
+Group2Reg=1
+
+[Sequence]
+DestinationLocationDir=<ProgramFilesDir>\Résistor
+SelectProgramFolderName=Résistor
+WelcomeMessage=1
+WelcomeMessageFile=
+DestinationLocation=1
+SelectProgramFolder=1
+ProgressBar=1
+SetupComplete=1
+SetupCompleteExec=[Fichiers programme]\Resistor.exe
+SetupCompleteExecParam=
+SetupCompleteExecReadme=
+
+[RegEntries]
+Reg1Path=HKEY_CLASSES_ROOT
+Reg1Val1Type=0
+Reg1Val1Name=(Default)
+Reg1Val1Data=(value not set)
+Reg1Vals=1
+Reg2Path=HKEY_CURRENT_USER
+Reg2Val1Type=0
+Reg2Val1Name=(Default)
+Reg2Val1Data=(value not set)
+Reg2Vals=1
+Reg3Path=HKEY_LOCAL_MACHINE
+Reg3Val1Type=0
+Reg3Val1Name=(Default)
+Reg3Val1Data=(value not set)
+Reg3Vals=1
+Reg4Path=HKEY_USERS
+Reg4Val1Type=0
+Reg4Val1Name=(Default)
+Reg4Val1Data=(value not set)
+Reg4Vals=1
+Reg5Path=HKEY_CURRENT_CONFIG
+Reg5Val1Type=0
+Reg5Val1Name=(Default)
+Reg5Val1Data=(value not set)
+Reg5Vals=1
+Reg6Path=HKEY_DYN_DATA
+Reg6Val1Type=0
+Reg6Val1Name=(Default)
+Reg6Val1Data=(value not set)
+Reg6Vals=1
+Regs=6
+
+[Registry]
+
+[Icons]
+Icons=1
+Icon1Param=
+Icon1Cmd=[Fichiers programme]\Resistor.exe
+Icon1Description=Resistor
+Icon1WorkingDir=[Fichiers programme]
+Icon1IconFile=
+Icon1RealFile=C:\Program Files\DevStudio\VB\MyProjects\Résistor\Resistor.exe
+Icon1WhichIcon=0
+Icon1KeyVirtual=0
+Icon1KeyFlags=0
+Icon1StartMenu=0
+Icon1Window=0
+
+[Autoexec]
+PathDir=
+ShareLocks=
+ShareFiles=
+Command=
+
+[CopyToFloppy]
+DriveOption=Path for a 1 File Installation.
+DestinationPath=
+DestinationPathOneFile=C:\P
+Password=
